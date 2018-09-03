@@ -1,3 +1,6 @@
+## Stting app
+
+```
 ИМЯ:
    geth - интерфейс командной строки go-ethereum
    Copyright 2013-2018 гг. Авторы go-ethereum
@@ -73,3 +76,4 @@ ETHASH ВАРИАНТЫ:
   
 ЭКСПЛУАТАЦИОННЫЕ НАСТРОЙКИ:
   --cache значение Megaby
+```
