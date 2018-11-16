@@ -2,7 +2,7 @@
 
 
 ## ИМЯ:
-   geth - интерфейс командной строки go-ethereum
+   geth - интерфейс командной строки go-ethereum   
    Copyright 2013-2018 гг. Авторы go-ethereum
 
 ## ПРИМЕНЕНИЕ:
